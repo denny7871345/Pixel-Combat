@@ -1,5 +1,5 @@
 # **Pixel Combat - 地下勇士之爭**
-
+Welcome to the English version of the README! [Click here to view in English](README-en.md).
 ![主畫面](images/1.png)
 *（圖片說明：Pixel Combat 的遊戲封面）*
 
