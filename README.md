@@ -54,7 +54,7 @@ Pixel Combat 是一場榮耀的決鬥！玩家將扮演地下勇士之一，進�
 ## **安裝與運行 (Installation & Running)**
 
 1. 下載最新版本的遊戲檔案：  
-   [下載連結](https://github.com/your-username/PixelCombat/releases)  
+   [下載連結]( https://github.com/denny7871345/Pixel-Combat/tree/main)
 2. 解壓縮檔案至指定目錄。  
 3. 雙擊 `PixelCombat.exe` 啟動遊戲。  
 
