@@ -28,7 +28,7 @@ Pixel Combat 是一場榮耀的決鬥！玩家將扮演地下勇士之一，進�
 
 ---
 
-![模式選擇]images/2.png)
+![模式選擇](images/2.png)
 *（圖片說明：Pixel Combat 的遊戲模式介面）*
 
 ## **遊戲特點 (Features)**  
